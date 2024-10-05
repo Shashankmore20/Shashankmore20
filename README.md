@@ -42,4 +42,4 @@ With around two years of hands-on experience at Apptmyz and as a free-lancer, I 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=shashankmore20&show_icons=true&locale=en" alt="shashankmore20" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmore20&" alt="shashankmore20" /></p>
+<p><img src="https://streak-stats.demolab.com/?user=Shashankmore20" alt="shashankmore20" /></p>
