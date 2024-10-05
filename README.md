@@ -38,8 +38,8 @@ With around two years of hands-on experience at Apptmyz and as a free-lancer, I 
 
 ## GitHub Stats 📊
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankmore20&show_icons=true&locale=en&layout=compact" alt="shashankmore20" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankmore20&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="shashankmore20" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=shashankmore20&show_icons=true&locale=en" alt="shashankmore20" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=shashankmore20&show_icons=true&locale=en&bg_color=00000000" alt="shashankmore20" /></p>
 
-<p><img src="https://streak-stats.demolab.com/?user=Shashankmore20" alt="shashankmore20" /></p>
+<p><img src="https://streak-stats.demolab.com/?user=Shashankmore20&bg_color=00000000" alt="shashankmore20" /></p>
